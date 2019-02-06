@@ -1,0 +1,19 @@
+C:\Users\Home\Downloads\hw-ruby-intro-master\spec>rspec part1_spec.rb
+............
+
+Finished in 0.04772 seconds (files took 0.39003 seconds to load)
+12 examples, 0 failures
+
+
+C:\Users\Home\Downloads\hw-ruby-intro-master\spec>rspec part2_spec.rb
+..........
+
+Finished in 0.03784 seconds (files took 0.28799 seconds to load)
+10 examples, 0 failures
+
+
+C:\Users\Home\Downloads\hw-ruby-intro-master\spec>rspec part3_spec.rb
+............
+
+Finished in 0.05192 seconds (files took 0.303 seconds to load)
+12 examples, 0 failures
